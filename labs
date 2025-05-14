@@ -1,0 +1,28 @@
+<!doctype html>
+<html class="no-js" lang="eng">
+<head>
+  <title>WELCOME</title>
+</head>
+
+<body  style="text-align: center;"
+
+<h2>Enter your details</h2><br>
+
+
+<label for="name">NAME</label>
+<input  type="name" id="name" required>
+
+<label for="number">NUMBER</label>
+<input type="number" id="number" required><br>
+
+<label for="email">EMAIL</label>
+<input type="email" id="email" required>
+
+<form action="lab1" >
+  <button type="submit">enter</button>
+  </form>
+
+
+</body>
+</html>
+

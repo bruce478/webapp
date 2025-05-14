@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ENJOY YOUR SHOPPING!!!</title>
+
+</head>
+
+
+<body 
+style="text-align: center;">
+
+
+
+<h1>hot deals</h1><br>
+<p>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM68YzSHC4Tgm25t850iUDb8aZHguUS3ki4Q&s width="800" length="800"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimqd3HjNx5csjXPfcy52oKOTy0wA8Ty59cw&s "width="800"length="800"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfMM_pS8mKT9Md73z5cEBfU3vHNOxQl6svg&s" width="800"lenth="800"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_r4odR0IeN6FN-i4s8zCW_940HAR5KyUbA&s" width="800" length="800"/>
+
+
+    <input type="checkbox"> airpods-ksh2,500<br>
+    <input type="checkbox">headphones 5,000<br>
+    <input type="checkbox">smartwatches- ksh7,000<br>
+    <input type="checkbox">boombox-ksh 3,000<br>
+
+</p>
+<form action="las">
+    <button type="submit">paypal</button></form>
+
+
+<form action="part3.html">
+    <button type="accept">mpesa</button></form>
+
+<form action="lab">
+    <button type="accept">visa</button></form>
+
+</div>
+</body>
+</html>
